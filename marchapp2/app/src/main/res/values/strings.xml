@@ -3,7 +3,11 @@
     <string name="name">Name</string>
     <string name="contact_info">Your email</string>
     <string name="button_send">Send</string>
-    <string name="title">MARCH FOR OUR LIVES - NASHVILLE</string>
+    <string name="title">MARCH FOR OUR LIVES - NASHVILLE: MAIN PAGE</string>
     <string name="welcome_message">Welcome to March4OL Nashville! This will be the primary mode of
      communication between organizers and marchers during the event.</string>
+    <string name="msg_prompt">Request Assistance...</string>
+    <string name="talk">TALK TO MARCH4OL</string>
+    <string name="report">Report an incident...</string>
+    <string name="report_instructions">Please include approximate location and severity / type of incident (medical, confrontation, etc.)</string>
 </resources>
