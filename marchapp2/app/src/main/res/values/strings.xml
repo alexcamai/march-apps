@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">march-app</string>
+    <string name="name">Name</string>
+    <string name="contact_info">Your email</string>
+    <string name="button_send">Send</string>
+    <string name="title">MARCH FOR OUR LIVES - NASHVILLE</string>
+    <string name="welcome_message">Welcome to March4OL Nashville! This will be the primary mode of
+     communication between organizers and marchers during the event.</string>
 </resources>
